@@ -1,3 +1,79 @@
+<h1 align="center">Hey there, I'm [Your Name] 👋</h1>
+
+<p align="center">
+  🚀 Developer • 🧠 Constant Learner • 🌍 Building cool things on the internet
+</p>
+
+<p align="center">
+  <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=Google-Chrome&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+## 🧰 Toolbox
+
+Tech I work with regularly:
+
+![My Skills](https://skillicons.dev/icons?i=php,jquery,js,html,css,mysql,aws,git,bootstrap,codepen,github,linkedin,npm,postman,powershell,stackoverflow,ubuntu,vscode,windows&theme=light)
+
+---
+
+## 📂 Featured Projects
+
+Here are some things I’ve been building 👇
+
+### 🎮 [GameHub](https://github.com/username/gamehub)
+A sleek web app to discover new games and explore trending titles using the RAWG API.  
+**⚙️ Stack:** React, TailwindCSS, Zustand  
+**🌐 Live Demo:** [gamehub.app](https://gamehub.app)
+
+---
+
+### 📊 [DevTrack](https://github.com/username/devtrack)
+A developer productivity tracker to log your coding hours, tasks, and achievements.  
+**⚙️ Stack:** Next.js, Supabase, Prisma  
+**📦 Highlights:** Auth, REST API, real-time analytics
+
+---
+
+### 🧠 [MindMate AI](https://github.com/username/mindmate-ai)
+Your personal AI-powered journaling assistant for self-reflection and mindfulness.  
+**⚙️ Stack:** Python, LangChain, Streamlit  
+**🧪 Features:** Natural language mood tracking, text summarization
+
+---
+
+### 🛒 [ShopSavvy](https://github.com/username/shopsavvy)
+A fully functional e-commerce platform with Stripe integration and admin dashboard.  
+**⚙️ Stack:** MERN Stack (MongoDB, Express, React, Node.js)  
+**💸 Live Demo:** [shopsavvy.io](https://shopsavvy.io)
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 💬 Let's Connect!
+
+If you’re building something awesome or want to collaborate, feel free to reach out 👇  
+📧 your.email@example.com  
+🌐 [yourwebsite.com](https://yourwebsite.com)
+
+> *"The best way to predict the future is to create it." — Abraham Lincoln*
+
+---
+
+
+
+
 ---
 
 # 🚀 Web Projects Showcase
