@@ -86,7 +86,7 @@ A curated portfolio of live websites and platforms I’ve developed or contribut
 
 ## 🌍 Live Projects
 
-### <a href="https://needtoday.com" target="_blank"><img src="https://github.com/user-attachments/assets/2179d3de-979e-42c3-83d3-54b9c66895bd"></a>
+<a href="https://needtoday.com" target="_blank"><img src="https://github.com/user-attachments/assets/2179d3de-979e-42c3-83d3-54b9c66895bd"></a>
    **Industry:** Multi-service platform  
    **Description:** A dynamic platform offering digital marketing, real estate, travel, and education services. Features include WhatsApp API integration and an online institute.
 
