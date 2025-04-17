@@ -22,60 +22,6 @@ Tech I work with regularly:
 
 ---
 
-## 📂 Featured Projects
-
-Here are some things I’ve been building 👇
-
-### 🎮 [GameHub](https://github.com/username/gamehub)
-A sleek web app to discover new games and explore trending titles using the RAWG API.  
-**⚙️ Stack:** React, TailwindCSS, Zustand  
-**🌐 Live Demo:** [gamehub.app](https://gamehub.app)
-
----
-
-### 📊 [DevTrack](https://github.com/username/devtrack)
-A developer productivity tracker to log your coding hours, tasks, and achievements.  
-**⚙️ Stack:** Next.js, Supabase, Prisma  
-**📦 Highlights:** Auth, REST API, real-time analytics
-
----
-
-### 🧠 [MindMate AI](https://github.com/username/mindmate-ai)
-Your personal AI-powered journaling assistant for self-reflection and mindfulness.  
-**⚙️ Stack:** Python, LangChain, Streamlit  
-**🧪 Features:** Natural language mood tracking, text summarization
-
----
-
-### 🛒 [ShopSavvy](https://github.com/username/shopsavvy)
-A fully functional e-commerce platform with Stripe integration and admin dashboard.  
-**⚙️ Stack:** MERN Stack (MongoDB, Express, React, Node.js)  
-**💸 Live Demo:** [shopsavvy.io](https://shopsavvy.io)
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 💬 Let's Connect!
-
-If you’re building something awesome or want to collaborate, feel free to reach out 👇  
-📧 your.email@example.com  
-🌐 [yourwebsite.com](https://yourwebsite.com)
-
-> *"The best way to predict the future is to create it." — Abraham Lincoln*
-
----
-
-
-
-
 ---
 
 # 🚀 Web Projects Showcase
@@ -86,9 +32,13 @@ A curated portfolio of live websites and platforms I’ve developed or contribut
 
 ## 🌍 Live Projects
 
-<a href="https://needtoday.com" target="_blank"><img src="https://github.com/user-attachments/assets/2179d3de-979e-42c3-83d3-54b9c66895bd"></a>
-   **Industry:** Multi-service platform  
-   **Description:** A dynamic platform offering digital marketing, real estate, travel, and education services. Features include WhatsApp API integration and an online institute.
+
+<a href="https://needtoday.com" target="_blank"><img src="https://github.com/user-attachments/assets/2179d3de-979e-42c3-83d3-54b9c66895bd" /></a>
+
+**Industry:** Multi-service platform  
+**Description:** A dynamic platform offering digital marketing, real estate, travel, and education services. Features include WhatsApp API integration and an online institute.
+	
+
 
 ### 2. **[RxAll Delivered](https://rxalldelivered.com)**
    **Industry:** Healthcare  
