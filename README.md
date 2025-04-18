@@ -18,7 +18,7 @@
 
 Tech I work with regularly:
 
-![My Skills](https://skillicons.dev/icons?i=php,jquery,js,html,css,mysql,aws,git,bootstrap,codepen,github,linkedin,npm,postman,powershell,stackoverflow,ubuntu,vscode,windows&theme=light)
+![My Skills](https://skillicons.dev/icons?i=php,js,jquery,html,css,mysql,aws,bootstrap,git,github,vscode,npm,postman,powershell,codepen,ubuntu,windows,stackoverflow,linkedin)
 
 ---
 
