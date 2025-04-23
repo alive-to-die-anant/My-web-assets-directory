@@ -184,3 +184,75 @@ A curated portfolio of live websites and platforms I’ve developed or contribut
 📬 *Want to collaborate? Let’s connect on [LinkedIn](https://www.linkedin.com/in/anant-singh-a31199348/) or via [email](mailto:aks03101988@gmail.com).*
 
 ---
+
+
+# 🚀 My Web Projects Portfolio
+
+Welcome! Here are my projects organized by category in a clean, spaced 3-column grid layout.
+
+---
+
+## 🛒 E-commerce Projects
+
+<table style="width:100%; border-collapse: separate; border-spacing: 20px 20px;">
+  <tr>
+    <td width="33%" valign="top" style="padding: 15px; border: 1px solid #ddd; border-radius: 8px;">
+      <h3><a href="https://shopeasy.com">ShopEasy</a></h3>
+      <p>A sleek, modern online store offering seamless shopping experiences with product browsing, secure checkout, and order tracking.</p>
+      <p><strong>Tech:</strong> React.js, Node.js, MongoDB, Stripe API</p>
+    </td>
+    <td width="33%" valign="top" style="padding: 15px; border: 1px solid #ddd; border-radius: 8px;">
+      <h3><a href="https://fashionhub.com">FashionHub</a></h3>
+      <p>A fashion-focused e-commerce platform with rich product galleries, customer reviews, and a smooth, fast checkout process.</p>
+      <p><strong>Tech:</strong> React.js, Node.js, MongoDB, Stripe API</p>
+    </td>
+    <td width="33%" valign="top" style="padding: 15px; border: 1px solid #ddd; border-radius: 8px;">
+      <!-- Optional: Add more e-commerce projects here -->
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🎓 Online Learning Platforms
+
+<table style="width:100%; border-collapse: separate; border-spacing: 20px 20px;">
+  <tr>
+    <td width="33%" valign="top" style="padding: 15px; border: 1px solid #ddd; border-radius: 8px;">
+      <h3><a href="https://learnpro.com">LearnPro</a></h3>
+      <p>A comprehensive online learning platform featuring course catalogs, video streaming, quizzes, and progress tracking.</p>
+      <p><strong>Tech:</strong> React.js, Node.js, MongoDB, Stripe API</p>
+    </td>
+    <td width="33%" valign="top" style="padding: 15px; border: 1px solid #ddd; border-radius: 8px;">
+      <h3><a href="https://skillup.com">SkillUp</a></h3>
+      <p>An engaging e-learning site focused on skill development with live classes, downloadable resources, and certification upon course completion.</p>
+      <p><strong>Tech:</strong> React.js, Node.js, MongoDB, Stripe API</p>
+    </td>
+    <td width="33%" valign="top" style="padding: 15px; border: 1px solid #ddd; border-radius: 8px;">
+      <!-- Optional: Add more online learning projects here -->
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🛠️ Common Tech Stack
+
+- Frontend: React.js, Tailwind CSS  
+- Backend: Node.js, Express.js  
+- Database: MongoDB  
+- Authentication: JWT, OAuth  
+- Payments: Stripe API  
+- Hosting: Vercel, AWS
+
+---
+
+## 📬 Let's Connect!
+
+I’m always excited to discuss new ideas or collaborations!  
+✉️ [your.email@example.com](mailto:your.email@example.com) | [LinkedIn](https://linkedin.com/in/yourprofile)
+
+---
+
+*Thanks for visiting my portfolio!*
+
