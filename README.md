@@ -63,10 +63,6 @@ I'm a PHP developer and team lead from India with more than ten years of experie
 
 A selection of live platforms I have built, extended or maintained. Each name links to the production site.
 
-<a href="https://needtoday.com" target="_blank"><img src="https://github.com/user-attachments/assets/2179d3de-979e-42c3-83d3-54b9c66895bd" alt="NeedToday" /></a>
-
-**[NeedToday](https://needtoday.com)**: multi-service platform covering digital marketing, real estate, travel and education, with WhatsApp API integration and an online institute.
-
 ### 🛒 E-commerce & Multi-vendor Marketplaces
 
 | Project | Region | What I did |
@@ -120,6 +116,7 @@ A selection of live platforms I have built, extended or maintained. Each name li
 
 | Project | What I did |
 |---|---|
+| [NeedToday](https://needtoday.com/) | Multi-service platform covering digital marketing, real estate, travel and education, with WhatsApp API integration and an online institute |
 | [Goforlocal](https://goforlocal.dk/) | New features and better search filters for Denmark's largest guide to local food producers |
 | [Longton Legal](https://www.longtonlegal.com.au) | Website for an Australian law firm offering corporate, personal and immigration services |
 | [Fandemonium Network](https://fandemoniumnetwork.com/) | Media streaming platform for fan communities |
